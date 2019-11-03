@@ -1,0 +1,6 @@
+C:\Files\Code\Runpath Coding Test\RunpathCodingTest\Projects\RunpathCodingTest\bin\Debug\RunpathCodingTest.dll
+C:\Files\Code\Runpath Coding Test\RunpathCodingTest\Projects\RunpathCodingTest\bin\Debug\RunpathCodingTest.pdb
+C:\Files\Code\Runpath Coding Test\RunpathCodingTest\Projects\RunpathCodingTest\obj\Debug\RunpathCodingTest.csproj.CoreCompileInputs.cache
+C:\Files\Code\Runpath Coding Test\RunpathCodingTest\Projects\RunpathCodingTest\obj\Debug\RunpathCodingTest.dll
+C:\Files\Code\Runpath Coding Test\RunpathCodingTest\Projects\RunpathCodingTest\obj\Debug\RunpathCodingTest.pdb
+C:\Files\Code\Runpath Coding Test\RunpathCodingTest\Projects\RunpathCodingTest\bin\Debug\RunpathCodingTest.dll.config
